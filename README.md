@@ -51,6 +51,12 @@ k6 run -e LOGIN_RATE=25 -e LOGIN_DURATION=3m tests/login-load-test.js
 
 7. Consultar `CONCLUSIONES.md` para ver el análisis de la ejecución validada.
 
+## Documentos de entrega
+
+- `README.md`: instrucciones de ejecución del ejercicio 1.
+- `CONCLUSIONES.md`: conclusiones de la prueba de carga implementada en el ejercicio 1.
+- `InformeResultados.md`: análisis del ejercicio 2 basado en los resultados suministrados por el taller.
+
 ## Variables de entorno disponibles
 
 | Variable | Valor por defecto | Uso |
